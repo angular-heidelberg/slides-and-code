@@ -15,6 +15,6 @@ This talk has an advanced level, but we will make sure that also beginners are n
 
 Michael is located in Austria Vienna. He is a certified Google Developer Expert (GDE), trainer developer and consultant in the field of Angular, RxJS and Ionic. As an active community member, he is the organiser of Angular Vienna and founder and leading head of Angular Austria, a non-profit association to support Angular.
 
-📹 Video: https://youtu.be/ZaUxIX_Q0R4 . 
-💻 Slides: http://bit.ly/slides-ngHeidelbergv4 . 
-💻 Code: https://stackblitz.com/edit/rxjs-operating-heavily-dynamic-uis . 
+📹 Video: https://youtu.be/ZaUxIX_Q0R4  
+💻 Slides: http://bit.ly/slides-ngHeidelbergv4   
+💻 Code: https://stackblitz.com/edit/rxjs-operating-heavily-dynamic-uis  
