@@ -13,5 +13,5 @@ For some time now, the Angular team has been tinkering with the build system baz
 Philipp Burgmer is a web native. Developing web applications for 15 years, he likes to pass on his accumulated and constantly refreshed knowledge through trainings, lectures and conferences. He works as a developer, consultant and trainer for W11K GmbH / theCodeCampus.
 
 📹 Video: https://youtu.be/DRo0r6Qgtpo  
-💻 [Slides](http://slides-and-code.angular-heidelberg.de/ngHeidelbergv5/slides/) .    
+💻 [Slides](http://slides-and-code.angular-heidelberg.de/ngHeidelbergv5/slides/)      
 💻 [Code](https://github.com/theCodeCampus/workshop-angular-up-to-date)  
