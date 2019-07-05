@@ -13,4 +13,6 @@ The talk will be held in English.
 
 Manfred is a Trainer and Consultant with a focus on Angular. Google Developer Expert (GDE) who writes for O'Reilly, the Java Magazine and windows.developer. He also regularly speaks at conferences. In short, Manfred is one of the best presenters in the German-speaking world and you should not miss this opportunity!
 
-💻 Slides: http://bit.ly/slides-ngHeidelberg-v3
+📹 Video: coming soon  
+💻 [Slides](http://bit.ly/slides-ngHeidelberg-v3)  
+💻 [Slides Backup](slides-enterprise-angular.pdf)  
