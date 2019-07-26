@@ -6,4 +6,5 @@
 * [ngHeidelbergv4](ngHeidelbergv4)
 * [ngHeidelbergv5](ngHeidelbergv5)
 * [ngHeidelbergv6](ngHeidelbergv6)
+* [ngHeidelbergv7](ngHeidelbergv7)
 
