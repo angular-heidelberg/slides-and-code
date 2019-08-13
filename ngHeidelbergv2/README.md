@@ -1,3 +1,5 @@
+![ngHeidelbergv2.jpg](ngHeidelbergv2.jpg)
+
 # #ngHeidelberg v2
 _with Christian Liebel_
 

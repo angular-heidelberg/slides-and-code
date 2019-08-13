@@ -1,3 +1,5 @@
+![ngHeidelbergv5.jpg](ngHeidelbergv5.jpg)
+
 # #ngHeidelberg v5
 _with Philipp Burgmer_
 

@@ -1,3 +1,5 @@
+![ngHeidelbergv1.jpg](ngHeidelbergv1.jpg)
+
 # #ngHeidelberg v1
 _with Ferdinand Malcher_
 

@@ -1,3 +1,5 @@
+![ngHeidelbergv4.jpg](ngHeidelbergv4.jpg)
+
 # #ngHeidelberg v4
 _with Michael Hladky_
 

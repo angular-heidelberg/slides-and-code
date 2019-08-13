@@ -1,3 +1,5 @@
+![ngHeidelbergv3.jpg](ngHeidelbergv3.jpg)
+
 # #ngHeidelberg v3
 _with Manfred Steyer_
 
