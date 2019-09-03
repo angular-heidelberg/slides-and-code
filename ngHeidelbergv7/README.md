@@ -14,6 +14,6 @@ In this talk, Christian will give an overview of the CDK followed by some live c
 Christian Janz works as a Senior Software Architect in the Product Development unit at oxaion GmbH in Ettlingen. He is particularly interested in the architecture and development of business applications using modern JavaScript and Java frameworks. Christian studied computer science at the University of Karlsruhe and has more than 10 years of experience in professional software development. He regularly shares his experiences from the various projects at conferences and meetups.
 
 
-📹 Video: coming soon  
+📹 Video: https://youtu.be/cwlebpxtXB0 .   
 💻 [Slides](slides-angular-cdk.pdf)  
 💻 [Code](https://github.com/cjanz/cdk-samples)  
