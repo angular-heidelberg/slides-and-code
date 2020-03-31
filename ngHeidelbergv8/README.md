@@ -26,7 +26,7 @@ Kai works as a lead developer at AEB with a focus on the company's Angular clien
 Ever heard about "ephemeral state"? Ngrx, ngxs, akita etc did a great job in managing global state in SPAs. However, nobody talked about the complexity and pain of managing the local component state. Based on a quote of "Gang of Four": "If you stick to the paradigms of OOP the design patterns appear naturally". I will solve isolates problems in a reactive way and the final design pattern for reactive component state results naturally.
 
 If you attend this talk you will hear about:
-- subscrption-less components
+- subscription-less components
 - local state management
 - handling local side-effects
 
