@@ -1,40 +1,41 @@
-# #ngHeidelberg v9
-_with Diego Julião Armenta & Santosh Yadav_
+# #ngHeidelberg v8
+_with Kai Röder and Michael Hladky_
 
-![ngHeidelbergv9.jpg](ngHeidelbergv9.jpg)
+![ngHeidelbergv8-kai.png](ngHeidelbergv8-kai.png)
 
-## Diego Julião Armenta: Code like Google does with Nx
+## Kai Röder: The Benefits of a Design System: How Storybook Can Improve Your Daily Work
 
-One of the biggest challenges of building a full-stack web application is managing complexity; if you're building a serious product, you likely have multiple front-end applications that communicate with a back-end that share interfaces with multiple team members that need to collaborate efficiently.
+Component driven frameworks are all over the place. But how can we manage components in a maintainable and transparent way without losing track? At the end of this talk you should know more about isolated component development, design systems and Storybook itself.
 
-Nx is a tool that can dramatically simplify the way you organize tests and share code between multiple JavaScript applications.
+## ABOUT KAI ROEDER
 
-The tool itself is based on the best practices developed at Google to scale thousands of applications across thousands of developers in a single mono repo, but you don't need to be operating at Google scale to see the benefits of NX, it can be a very powerful tool for projects of all sizes and not just angular but full stack javascript.
+Kai works as a lead developer at AEB with a focus on the company's Angular client framework. In October 2018, he joined the Storybook team as an open source maintainer.
 
-The talk will be held in English.
-
-## ABOUT DIEGO JULIÃO ARMENTA
-
-Diego Julião Armenta is a Software Engineer with 5+ years of professional experience focused on JavaScript technologies, passionate and committed with the quality of his work. Working with Angular since version 2 and with widely experience with its ecosystem, NativeScript, NestJS, Nx and create/publish libraries for the framework.
-
-📹 Video: TODO  
-💻 [Slides](TODO)  
-💻 [Code](TODO)
+📹 Video: https://youtu.be/EbCr0Y6ppbw  
+💻 [Slides](https://docs.google.com/presentation/d/1ZxPfzSTwZyBTcEOL2OQ7G4jUJhU8QC-McyDYB8AIsC0/)  
+💻 [Slides Backup](slides-storybook.pdf)  
+💻 Code: shown in the slides  
 
 
 -----
 
-## Santosh Yadav: Angular Builders in Depth
+![ngHeidelbergv8-michael.png](ngHeidelbergv8-michael.png)
 
-Angular made the Angular CLI builders API public – in this talk we will explore why it was required and how to use it. We will learn how to create our own builder and make complicated things easier for us. We will explore the API in depth and learn a lot about how the CLI works internally. Of course, I will also show you the most popular builders that will make your daily work easier and showcase you a some of the lesser-known gems that might be added to the Angular CLI as a command in the future.
+## Michael Hladky: Angular and RxJS – Tackling Component State Reactively
 
-The talk will be held in English.
+Ever heard about "ephemeral state"? Ngrx, ngxs, akita etc did a great job in managing global state in SPAs. However, nobody talked about the complexity and pain of managing the local component state. Based on a quote of "Gang of Four": "If you stick to the paradigms of OOP the design patterns appear naturally". I will solve isolates problems in a reactive way and the final design pattern for reactive component state results naturally.
 
-## ABOUT SANTOSH YADAV
+If you attend this talk you will hear about:
+- subscription-less components
+- local state management
+- handling local side-effects
 
-Santosh is a GDE for Angular and web Technologies and an active contributor to Angular and NgRx. He writes for AngularInDepth and mentors at Dotnettricks and Orgnizer of Pune Tech Meetup. He is the creator of the `ng deploy` package for Netlify and part of NestJSAddons core team.
+You will be able to write fully reactive components that will be well structured and organised without any effort.
 
-📹 Video: TODO  
-💻 [Slides](TODO)  
-💻 [Code](TODO)
+## ABOUT MICHAEL HLADKY
 
+Michael is located in Austria Vienna. He is a certified Google Developer Expert (GDE), trainer developer and consultant in the field of Angular, RxJS and Ionic. As an active community member, he is the organiser of Angular Vienna and founder and leading head of Angular Austria, a non-profit association to support Angular.
+
+📹 Video: https://youtu.be/SfKwFtMFdv8  
+💻 [Slides](slides-tackling-component-state-reactively.pdf)  
+💻 [Code](https://github.com/BioPhoton/research-reactive-ephemeral-state-in-component-oriented-frontend-frameworks)  
