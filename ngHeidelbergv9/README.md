@@ -35,5 +35,5 @@ The talk will be held in English.
 Santosh is a GDE for Angular and web Technologies and an active contributor to Angular and NgRx. He writes for AngularInDepth and mentors at Dotnettricks and Orgnizer of Pune Tech Meetup. He is the creator of the `ng deploy` package for Netlify and part of NestJSAddons core team.
 
 📹 Video: TODO  
-💻 [Slides](TODO)  
-💻 [Code](TODO)
+💻 [Slides](https://slides.com/santoshyadav/deck-1abe97)  
+💻 [Code](https://github.com/santoshyadav198613/ng-heidelberg-demo)
