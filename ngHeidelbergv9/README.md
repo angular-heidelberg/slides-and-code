@@ -1,7 +1,7 @@
 # #ngHeidelberg v9
 _with Diego Julião Armenta & Santosh Yadav_
 
-![ngHeidelbergv9.jpg](ngHeidelbergv9.jpg)
+![ngHeidelbergv9_diego.jpg](ngHeidelbergv9_diego.jpg)
 
 ## Diego Julião Armenta: Code like Google does with Nx
 
@@ -17,12 +17,15 @@ The talk will be held in English.
 
 Diego Julião Armenta is a Software Engineer with 5+ years of professional experience focused on JavaScript technologies, passionate and committed with the quality of his work. Working with Angular since version 2 and with widely experience with its ecosystem, NativeScript, NestJS, Nx and create/publish libraries for the framework.
 
-📹 Video: TODO  
+📹 Video: https://youtu.be/I6QPu2sNXmQ  
 💻 [Slides](TODO)  
-💻 [Code](TODO)
+💻 [Code](TODO)  
 
 
 -----
+
+![ngHeidelbergv9_santosh.jpg](ngHeidelbergv9_santosh.jpg)
+
 
 ## Santosh Yadav: Angular Builders in Depth
 
@@ -34,6 +37,6 @@ The talk will be held in English.
 
 Santosh is a GDE for Angular and web Technologies and an active contributor to Angular and NgRx. He writes for AngularInDepth and mentors at Dotnettricks and Orgnizer of Pune Tech Meetup. He is the creator of the `ng deploy` package for Netlify and part of NestJSAddons core team.
 
-📹 Video: TODO  
+📹 Video: https://youtu.be/doAAX0cZ4gI  
 💻 [Slides](https://slides.com/santoshyadav/deck-1abe97)  
-💻 [Code](https://github.com/santoshyadav198613/ng-heidelberg-demo)
+💻 [Code](https://github.com/santoshyadav198613/ng-heidelberg-demo)  
