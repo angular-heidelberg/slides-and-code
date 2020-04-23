@@ -18,8 +18,7 @@ The talk will be held in English.
 Diego Julião Armenta is a Software Engineer with 5+ years of professional experience focused on JavaScript technologies, passionate and committed with the quality of his work. Working with Angular since version 2 and with widely experience with its ecosystem, NativeScript, NestJS, Nx and create/publish libraries for the framework.
 
 📹 Video: https://youtu.be/I6QPu2sNXmQ  
-💻 [Slides](TODO)  
-💻 [Code](TODO)  
+💻 [Slides](https://slides.com/diegojuliao/code-like-google-does-with-nx)
 
 
 -----
