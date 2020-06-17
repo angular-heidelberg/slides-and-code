@@ -1,4 +1,4 @@
-# #ngHeidelberg v1ß
+# #ngHeidelberg v10
 _with Siddharth Ajmera & Alex Rickabaugh_
 
 ![ngHeidelbergv10.jpg](ngHeidelbergv10.jpg)
