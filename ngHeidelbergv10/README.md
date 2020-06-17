@@ -19,7 +19,7 @@ Siddharth is a Google Developer Expert in Angular and Web Technologies currently
 Apart from his regular 9-5 Job, he is an Angular and Firebase instructor on Udemy, writes Articles and creates YouTube videos. You can find him almost anywhere on the Web with SiddAjmera.
 
 📹 Video: TODO  
-💻 [Slides](TODO)
+💻 [Slides](TODO)  
 💻 [Code](TODO)  
 
 
