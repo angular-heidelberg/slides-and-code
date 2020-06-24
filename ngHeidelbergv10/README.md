@@ -1,7 +1,7 @@
 # #ngHeidelberg v10
 _with Siddharth Ajmera & Alex Rickabaugh_
 
-![ngHeidelbergv10.jpg](ngHeidelbergv10.jpg)
+![ngHeidelbergv10_siddharth.jpg](ngHeidelbergv10_siddharth.jpg)
 
 ## Siddharth Ajmera: Ivy - The Present and The Future
 
@@ -19,12 +19,15 @@ Siddharth is a Google Developer Expert in Angular and Web Technologies currently
 Apart from his regular 9-5 Job, he is an Angular and Firebase instructor on Udemy, writes Articles and creates YouTube videos. You can find him almost anywhere on the Web with SiddAjmera.
 
 📹 Video: TODO  
-💻 [Slides](TODO)  
+💻 [Slides](https://docs.google.com/presentation/d/1rLko8imEjk0G1oScEEPC8mv9cP74iUB2sCCplBdfSpM/edit?usp=sharing) 
+💻 [Slides Backup](slides-ivy-siddharth.pdf)  
 💻 [Code](TODO)  
 
 
 
 -----
+
+![ngHeidelbergv10_alex.jpg](ngHeidelbergv10_alex.jpg)
 
 
 ## Alex Rickabaugh: Stronger Type-Checking in Templates with Ivy
@@ -35,11 +38,11 @@ Discover how to use this new flag with Angular Framework team member Alex Rickab
 
 The talk will be held in English.
 
-## ABOUT SIDDHARTH AJMERA
+## ABOUT ALEX RICKABAUGH
 
-Siddharth is a Google Developer Expert in Angular and Web Technologies currently based out in Sydney. As a Sr. Full Stack JavaScript Developer he works on Digital Transformation Engagements for his Organization.
-Apart from his regular 9-5 Job, he is an Angular and Firebase instructor on Udemy, writes Articles and creates YouTube videos. You can find him almost anywhere on the Web with SiddAjmera.
+Alex Rickabaugh is a software engineer at Google, and for the last three years has been a core member of the Angular team. Throughout his time on Angular, Alex has worked on the Service Worker implementation for Progressive Web Apps, server-side rendering support, and a rewrite of the HTTP API. Currently, he works on the Angular Compiler, getting it ready for the next generation architecture, Angular Ivy.
 
 📹 Video: TODO  
-💻 [Slides](TODO)  
+💻 [Slides](https://docs.google.com/presentation/d/1lZ54ufZrB9p-k8BqYScTwbgDz7krXjvKNjKEQeQ0Hl0/edit?usp=sharing)  
+💻 [Slides Backup](slides-ivy-alex.pdf)  
 💻 [Code](TODO)  
