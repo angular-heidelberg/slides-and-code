@@ -21,8 +21,6 @@ Apart from his regular 9-5 Job, he is an Angular and Firebase instructor on Udem
 📹 Video: TODO  
 💻 [Slides](https://docs.google.com/presentation/d/1rLko8imEjk0G1oScEEPC8mv9cP74iUB2sCCplBdfSpM/edit?usp=sharing)  
 💻 [Slides Backup](slides-ivy-siddharth.pdf)  
-💻 [Code](TODO)  
-
 
 
 -----
@@ -45,4 +43,3 @@ Alex Rickabaugh is a software engineer at Google, and for the last three years h
 📹 Video: TODO  
 💻 [Slides](https://docs.google.com/presentation/d/1lZ54ufZrB9p-k8BqYScTwbgDz7krXjvKNjKEQeQ0Hl0/edit?usp=sharing)  
 💻 [Slides Backup](slides-ivy-alex.pdf)  
-💻 [Code](TODO)  
