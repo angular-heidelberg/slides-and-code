@@ -3,7 +3,7 @@ _with Valentin Kononov and Sam Vloeberghs_
 
 ![ngHeidelbergv11_valentin.jpg](ngHeidelbergv11_valentin.jpg)
 
-## Valentin Kononov: Bad Practices: what to avoid in Angular
+## Valentin Kononov: Bad Practices: What to avoid in Angular
 
 Best practices… There are lots of best practices how you can make your app better. But at the end of the day we usually forget what we should NOT do in order to achieve better results. Let’s talk about some bad stuff like mis-using pipes, subscriptions, leaks, big lists, TS features and so on. This way we can finally get even closer to better and more performant apps in Angular.
 
