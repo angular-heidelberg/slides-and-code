@@ -13,8 +13,8 @@ The talk will be held in English.
 
 Valentin works at Mapbox R&D center in Minsk, Belarus, experienced in .NET, Angular, React, React Native, NodeJS, NestJS and other interesting stuff in full stack software development. He loves modern web technical stack, but strongly believes in understanding of fundamental aspects of programming. He likes code writing, work in amazing and useful projects, which can bring something valuable to people.
 
-📹 Video: TODO  
-💻 [Slides](TODO)  
+📹 Video: https://youtu.be/9LPxrfssbiE  
+💻 [Slides](https://slides.com/valentinkononov/angular-bad-practices-ngheidelberg)  
 
 
 -----
@@ -38,5 +38,5 @@ The talk will be held in English.
 
 Sam is a freelance software architect and Internet entrepreneur, currently focusing on frontend technologies and frameworks like Angular and Workbox while keeping a sharp eye on the basics and advanced aspects of HTML5. He is the co-organiser of the Belgian Angular Conference, NG-BE and the Angular Belgium meetup. Sam writes about the technologies he uses on a daily basis at https://samvloeberghs.be .
 
-📹 Video: TODO  
-💻 [Slides](TODO)  
+📹 Video: https://youtu.be/p5I8kU5sRW0  
+💻 [Slides](https://docs.google.com/presentation/d/e/2PACX-1vTiW6ENAHbWgjqBgAoPLdpj0qJwcQVsQ0jcUJ4Fu4Qgzs-EQFGvK47VFHwsSyMOljFte55B5bcdzGws/pub?start=false&loop=false&delayms=5000)  
