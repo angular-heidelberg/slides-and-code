@@ -18,7 +18,7 @@ The talk will be held in English.
 Siddharth is a Google Developer Expert in Angular and Web Technologies currently based out in Sydney. As a Sr. Full Stack JavaScript Developer he works on Digital Transformation Engagements for his Organization.
 Apart from his regular 9-5 Job, he is an Angular and Firebase instructor on Udemy, writes Articles and creates YouTube videos. You can find him almost anywhere on the Web with SiddAjmera.
 
-📹 Video: https://youtu.be/JwMTJ5BCIKw  
+📹 [Video](https://youtu.be/JwMTJ5BCIKw)  
 💻 [Slides](https://docs.google.com/presentation/d/1rLko8imEjk0G1oScEEPC8mv9cP74iUB2sCCplBdfSpM/edit?usp=sharing)  
 💻 [Slides Backup](slides-ivy-siddharth.pdf)  
 
@@ -40,6 +40,6 @@ The talk will be held in English.
 
 Alex Rickabaugh is a software engineer at Google, and for the last three years has been a core member of the Angular team. Throughout his time on Angular, Alex has worked on the Service Worker implementation for Progressive Web Apps, server-side rendering support, and a rewrite of the HTTP API. Currently, he works on the Angular Compiler, getting it ready for the next generation architecture, Angular Ivy.
 
-📹 Video: https://youtu.be/N8hIMDIG9B0  
+📹 [Video](https://youtu.be/N8hIMDIG9B0)  
 💻 [Slides](https://docs.google.com/presentation/d/1lZ54ufZrB9p-k8BqYScTwbgDz7krXjvKNjKEQeQ0Hl0/edit?usp=sharing)  
 💻 [Slides Backup](slides-ivy-alex.pdf)  

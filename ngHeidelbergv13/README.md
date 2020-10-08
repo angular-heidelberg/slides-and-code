@@ -14,8 +14,8 @@ The talk will be held in English.
 Frosty is the CEO and co-founder of HeroDevs. He's also one of the lead organizers for ng-conf, the galaxy's largest Angular conference.
 For the last five years, he's been a Google Developer Expert (GDE) for his work in the JavaScript community and for his deep knowledge around the Angular-of-things. He's as passionate about coding as he is about tacos. Where some people see a new sunrise, Frosty sees a chance to write more code and to meet new food.
 
-📹 Video: TODO  
-💻 [Slides](TODO)  
+📹 Video  
+💻 Slides  
 
 -----
 
@@ -32,5 +32,5 @@ The talk will be held in English.
 
 Mark loves to teach and code. His love for both of these disciplines has led to becoming an award winning university instructor and software engineer. He comes with a passion for creating meaningful learning experiences. With over a decade of developing solutions across the tech stack, Mark likes to use that experience to break down fear of technology and make challenging technical topics more accessible. Lately, Mark has been spending time as a Developer Advocate at Google.
 
-📹 Video: TODO  
-💻 [Slides](TODO)  
+📹 Video  
+💻 Slides  

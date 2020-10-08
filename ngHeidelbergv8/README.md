@@ -11,10 +11,9 @@ Component driven frameworks are all over the place. But how can we manage compon
 
 Kai works as a lead developer at AEB with a focus on the company's Angular client framework. In October 2018, he joined the Storybook team as an open source maintainer.
 
-📹 Video: https://youtu.be/EbCr0Y6ppbw  
+📹 [Video](https://youtu.be/EbCr0Y6ppbw)   
 💻 [Slides](https://docs.google.com/presentation/d/1ZxPfzSTwZyBTcEOL2OQ7G4jUJhU8QC-McyDYB8AIsC0/)  
 💻 [Slides Backup](slides-storybook.pdf)  
-💻 Code: shown in the slides  
 
 
 -----
@@ -36,6 +35,6 @@ You will be able to write fully reactive components that will be well structured
 
 Michael is located in Austria Vienna. He is a certified Google Developer Expert (GDE), trainer developer and consultant in the field of Angular, RxJS and Ionic. As an active community member, he is the organiser of Angular Vienna and founder and leading head of Angular Austria, a non-profit association to support Angular.
 
-📹 Video: https://youtu.be/SfKwFtMFdv8  
+📹 [Video](https://youtu.be/SfKwFtMFdv8)  
 💻 [Slides](slides-tackling-component-state-reactively.pdf)  
 💻 [Code](https://github.com/BioPhoton/research-reactive-ephemeral-state-in-component-oriented-frontend-frameworks)  

@@ -13,7 +13,7 @@ The talk will be held in English.
 
 Aliaksei is on a mission to teach people Angular and works works as an independent consultant. He is also organizing an Angular and frontend-related meetups and writes and speaks regularly on Angular-related topics. As a member of the NGXS core team, he is deeply familiar with the topic of state manament.
 
-📹 Video: https://youtu.be/F-1V43rNm2E  
+📹 [Video](https://youtu.be/F-1V43rNm2E)  
 💻 [Slides](https://speakerdeck.com/kuncevic/progressive-state-management-with-ngxs)  
 💻 [Slides Backup](slides-progressive-state-management-with-ngxs-aliaksei.pdf)  
 💻 [Code](https://github.com/kuncevic/progressive-state-management-with-ngxs)  
@@ -37,6 +37,6 @@ The talk will be held in English.
 
 Oleksandr works as a senior front-end dev. In the last 4+ years he has been working in commercial projects heavily using the Angular framework and the RxJS library. Many will know him through his contributions to the "Angular-in-Depth" blog and his "Hands-on RxJS" and "RxJS unit testing" video-courses.
 
-📹 Video: https://youtu.be/QtXGa7VlNgU  
+📹 [Video](https://youtu.be/QtXGa7VlNgU)  
 <!-- 💻 [Slides](https://drive.google.com/file/d/1Lunqi5Sbzj-jNz_m7WSfn_y-Ohy3FFgk/view?usp=sharing)-->
 💻 [Slides](slide-rxjs-unit-testing-oleksandr.pdf)  
